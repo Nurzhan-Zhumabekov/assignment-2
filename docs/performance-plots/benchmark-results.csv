@@ -1,0 +1,4 @@
+Size,Time(ms),Comparisons,Swaps,Reads,Writes
+100,0,910,Comparisons=4950, Swaps=95, Reads=9995, Writes=95
+1000,7,033,Comparisons=499500, Swaps=991, Reads=999991, Writes=991
+10000,53,950,Comparisons=49995000, Swaps=9985, Reads=99999985, Writes=9985
